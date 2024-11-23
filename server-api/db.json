@@ -1,0 +1,34 @@
+{
+  "contacts": [
+    {
+      "id": "20659f8e-d38a-46d2-8f47-a45d9fa3b0f5",
+      "name": "Vishal Dasari",
+      "email": "vishalwork070320@gmail.com"
+    },
+    {
+      "id": "be1648bd-c424-44a4-9f46-e42c0a2dbbd3",
+      "name": "fasdf",
+      "email": "asd@gmail.com"
+    },
+    {
+      "id": "1ea50388-f75b-43f7-936e-1d30fea69f6d",
+      "name": "sds",
+      "email": "asd@gmail.com"
+    },
+    {
+      "id": "5d432601-a620-4edf-befc-420e01d0d62e",
+      "name": "Vishal Dasari",
+      "email": "vishalwork070320@gmail.com"
+    },
+    {
+      "id": "80a811d1-a47c-4c1e-997c-d38fba67e651",
+      "name": "Vishal Dasari",
+      "email": "vishalwork070320@gmail.com"
+    },
+    {
+      "id": "171b822b-cd0c-4721-b3f8-6213fd0232bc",
+      "name": "Vishal Dasari",
+      "email": "vishalwork070320@gmail.com"
+    }
+  ]
+}
